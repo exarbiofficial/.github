@@ -17,7 +17,7 @@ Real-time crypto arbitrage platform across multiple exchanges.
 
 ## Official Links
 
-- X: https://x.com/exarbiofficial
+- X: https://x.com/exarbi_ltd
 - LinkedIn: https://www.linkedin.com/company/exarbi/
 
 ## Disclaimer
